@@ -10,7 +10,7 @@ Game design and HTML, CSS provided by Skillcrush, responsible for writing JavaSc
 
 - JavaScript
 
-[**Live Project Here**]()
+[**Live Project Here**](https://gabrielapal.github.io/guess-the-word/)
 
 ![image](https://github.com/gabrielapal/guess-the-word/assets/127886470/628459dd-d381-48f2-ae1b-60db874b5f93)
 
